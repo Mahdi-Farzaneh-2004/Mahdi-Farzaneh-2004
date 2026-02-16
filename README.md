@@ -1,90 +1,69 @@
+<h1 align="center">👤Mahdi Farzaneh</h1>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mahdi Farzaneh</title>
+###
 
-<style>
-body{
-    font-family: Arial, sans-serif;
-    background:#f4f6f8;
-    margin:0;
-}
+<p align="left">Computer Science Student and Python Developer Specializing in Artificial Intelligence</p>
 
-.container{
-    max-width:700px;
-    margin:60px auto;
-    background:white;
-    padding:30px;
-    border-radius:8px;
-    box-shadow:0 0 10px rgba(0,0,0,0.08);
-}
+###
 
-h1{
-    margin-top:0;
-    color:#222;
-}
+<h2 align="left">🚀 Skills</h2>
 
-h2{
-    margin-top:30px;
-    color:#444;
-}
+###
 
-.skills span{
-    display:inline-block;
-    background:#e3e8ef;
-    padding:6px 12px;
-    border-radius:20px;
-    margin:5px 5px 0 0;
-    font-size:14px;
-}
+<p align="left">Python<br>Artificial Intelligence<br>Data Analysis<br>Power BI<br>HTML<br>CSS</p>
 
-a{
-    color:#0077b5;
-    text-decoration:none;
-}
+###
 
-a:hover{
-    text-decoration:underline;
-}
-</style>
-</head>
+<h2 align="left">🧑‍💻 About Me</h2>
 
-<body>
+###
 
-<div class="container">
+<p align="left">I am passionate about programming, artificial intelligence, and data analysis.<br>I enjoy learning new technologies and building real-world projects.<br>My goal is continuous growth and creating smart solutions that make life easier.</p>
 
-<h1>Mahdi Farzaneh</h1>
-<p><strong>Computer Science Student | Python Developer | AI Enthusiast</strong></p>
+###
 
-<h2>About Me</h2>
-<p>
-I am passionate about programming, artificial intelligence, and data analysis.
-I enjoy learning new technologies and building real-world projects.
-My goal is continuous growth and creating smart solutions that make life easier.
-</p>
+<h2 align="left">📫 Contact</h2>
 
-<h2>Skills</h2>
-<div class="skills">
-<span>Python</span>
-<span>Artificial Intelligence</span>
-<span>Data Analysis</span>
-<span>Power BI</span>
-<span>HTML</span>
-<span>CSS</span>
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/mahdi-farzaneh-8197aa379" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="@Mahdi_geq" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="farzanehmahdi2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
-<h2>Contact</h2>
-<p>Email: <a href="mailto:farzanehmahdi2004@gmail.com">farzanehmahdi2004@gmail.com</a></p>
-<p>LinkedIn: 
-<a href="https://www.linkedin.com/in/mahdi-farzaneh-8197aa379" target="_blank">
-mahdi-farzaneh
-</a>
-</p>
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="60" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="60" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
 </div>
 
-</body>
-</html>
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mahdi-Farzaneh-2004&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
